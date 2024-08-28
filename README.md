@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI3aXg0MGN1bjdlZmxoc3NyOW1ldDUwazdoOHZzYnIzZnFlY3AzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ur4b3yf0RhqNO/giphy.gif" width="100"/>
+</div>
+
 <!--
 **chdorgeix1/chdorgeix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
