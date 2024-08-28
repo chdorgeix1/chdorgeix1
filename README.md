@@ -8,7 +8,7 @@
 ### About Me :
 - 🏫 I'm a William & Mary graduate with a bachelor's in Applied Mathematics and Statistics and a master's in Biology. 
 - 💡 My interests lie at the intersection of biological challenges and computational solutions.
-- 🔭 I’m currently working on a CDC heart health dataset using SQLite, R, and Python to examine influences on heart attacks.
+- 🔭 I'm currently analyzing a CDC heart health dataset using SQLite, R, and Python to investigate factors influencing heart attacks.
 - 🌱 I’m currently learning to combine statistical, machine learning, and data visualization skills into health data.
 - 🤔 I’m looking for help with tmap.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Dorgeix-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-d-orgeix-474a321b5/)
